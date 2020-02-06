@@ -1,0 +1,12 @@
+.panel-registro{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+@media screen and (max-width:550px){
+    .panel-registro{
+        width: 90%;
+    }
+}
+
